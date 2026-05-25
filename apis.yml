@@ -1,0 +1,94 @@
+aid: stessa
+name: Stessa
+description: >-
+  Stessa is a financial reporting, accounting, and management platform for
+  rental property owners and small-to-mid-size landlords, headquartered in
+  San Francisco and operated as a brand of Roofstock alongside Mynd and
+  RentPrep. The platform helps owners track unlimited properties and
+  portfolios with automated bank and credit card feeds, transaction
+  categorization, mileage tracking, receipt scanning, Schedule E-ready tax
+  reporting, online rent collection, tenant screening through RentPrep,
+  e-signature leasing with 50+ legal templates, maintenance request
+  tracking, and property-specific Stessa Cash Management accounts with
+  high-yield APY and FDIC insurance up to $3M per entity. Stessa is
+  delivered as a web app and iOS/Android mobile apps with three tiers —
+  Essentials (free), Manage, and Pro — and serves more than 350,000
+  landlords. Bank, credit card, and payment data flows in through aggregator
+  partners (Plaid-style open banking) rather than a public Stessa API,
+  and the only developer-facing GitHub presence is an org with a handful
+  of forked Ruby and Vue.js utilities. There is no public Stessa REST
+  API, no developer portal, no SDKs, and no published webhooks; the
+  Stessa community has open feature requests for a public API to pull
+  reports and transactions, but none has shipped.
+type: Index
+position: Provider
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Real Estate
+  - Landlords
+  - Rental Property
+  - Property Management
+  - Accounting
+  - Bookkeeping
+  - Financial Reporting
+  - Tax Reporting
+  - Rent Collection
+  - Tenant Screening
+  - Banking
+  - Roofstock
+url: https://raw.githubusercontent.com/api-evangelist/stessa/refs/heads/main/apis.yml
+created: '2026-05-25'
+modified: '2026-05-25'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://www.stessa.com
+  - type: WebApplication
+    url: https://app.stessa.com
+  - type: Pricing
+    url: https://www.stessa.com/pricing/
+  - type: Features
+    url: https://www.stessa.com/features/
+  - type: RentCollection
+    url: https://www.stessa.com/rent-collection/
+  - type: TenantScreening
+    url: https://www.stessa.com/tenant-screening/
+  - type: Banking
+    url: https://www.stessa.com/banking/
+  - type: Leasing
+    url: https://www.stessa.com/leasing/
+  - type: Marketplace
+    url: https://www.stessa.com/marketplace/
+  - type: Blog
+    url: https://www.stessa.com/blog/
+  - type: HelpCenter
+    url: https://support.stessa.com
+  - type: Community
+    url: https://community.stessa.com
+  - type: Parent
+    url: https://www.roofstock.com
+  - type: GitHub
+    url: https://github.com/stessa
+  - type: Twitter
+    url: https://twitter.com/stessa_app
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/stessa
+  - type: Facebook
+    url: https://www.facebook.com/stessa
+  - type: YouTube
+    url: https://www.youtube.com/c/stessa
+  - type: AppStore
+    url: https://apps.apple.com/us/app/stessa-rental-property-tracker/id1252342941
+  - type: GooglePlay
+    url: https://play.google.com/store/apps/details?id=com.stessa.stessa
+  - type: Contact
+    url: https://www.stessa.com/contact/
+  - type: TermsOfService
+    url: https://www.stessa.com/terms-of-service/
+  - type: PrivacyPolicy
+    url: https://www.stessa.com/privacy-policy/
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
